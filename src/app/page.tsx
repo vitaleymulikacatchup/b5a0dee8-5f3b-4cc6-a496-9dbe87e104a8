@@ -39,7 +39,7 @@ export default function LandingPage() {
             text: "Visit Us",
             href: "contact"
           }}
-          logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765988416547-xo28izlg.jpg"
+          logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765988633059-5k12cwpf.jpg"
           logoAlt="Coffee Haven Logo"
           brandName="Coffee Haven"
         />
