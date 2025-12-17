@@ -192,8 +192,8 @@ export default function LandingPage() {
               title: "My study home away from home",
               quote: "Perfect wifi, comfortable seating, and friendly baristas. I've spent countless hours here working on projects. Coffee Haven feels like home.",
               tag: "Regular Visitor",
-              avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765988432000-d21dbyvk.jpg",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765988432000-d21dbyvk.jpg"
+              avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765988694349-m6niunev.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765988694349-m6niunev.jpg"
             },
             {
               id: "5",
