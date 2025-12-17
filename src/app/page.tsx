@@ -202,8 +202,8 @@ export default function LandingPage() {
               title: "Creative energy and great vibes",
               quote: "The art on the walls, the music selection, and the genuine warmth of the staff create the perfect environment for creativity. This place inspires me.",
               tag: "Creative Community",
-              avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765988433229-tsxkft1x.jpg",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765988433229-tsxkft1x.jpg"
+              avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765990698208-bezsquyy.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34yEatLQt6B9A82mZgfqKsKaLO9/uploaded-1765990698208-bezsquyy.jpg"
             },
             {
               id: "6",
